@@ -1,0 +1,1 @@
+This is open source free library for Unity 3 Game Engine. This allow you create dynamic and static decals in you beautyfull games .
